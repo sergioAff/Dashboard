@@ -44,6 +44,24 @@ Uso
    yarn dev
   2.	Abre tu navegador y ve a http://localhost:3000 para ver la aplicación en funcionamiento.
 
+
+## Imágenes
+
+### Login:
+![Login](https://github.com/user-attachments/assets/ddf77f33-9fac-4a1a-82eb-89a5f1e4220f)
+
+### Dashboard:
+![Dashboard](https://github.com/user-attachments/assets/02bb62ea-78b2-4d48-a7ec-3e4c64bd7586)
+
+### Dashboard para móviles:
+![Dashboard móvil](https://github.com/user-attachments/assets/612e3e1e-6798-4b9a-a968-27855806fb32)
+
+### Invoices:
+![Invoices](https://github.com/user-attachments/assets/3a3aca18-1856-4bbc-8ea1-22f32634de4d)
+
+## Create invoices:
+<img width="1710" alt="Captura de pantalla 2024-07-26 a la(s) 8 55 38 a m" src="https://github.com/user-attachments/assets/1ab03687-4958-4c12-ba9c-999a138a55b2">
+
 Contribución
 
 Si deseas contribuir a este proyecto, por favor sigue estos pasos:
